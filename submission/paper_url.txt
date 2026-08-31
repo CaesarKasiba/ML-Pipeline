@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://caesarkasiba.github.io/ML-Pipeline/work/notebooks/capstone.html
